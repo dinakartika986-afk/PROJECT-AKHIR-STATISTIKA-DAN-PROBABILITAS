@@ -1,10 +1,9 @@
 # Tugas Analisis Statistik: Deskriptif, Korelasi, dan Regresi
 
-## 1. Informasi Penyusun
-
-- **Nama:** `[NAMA LENGKAP MAHASISWA]`
-- **NIM:** `[NOMOR INDUK MAHASISWA]`
-- **Program Studi:** `[PROGRAM STUDI]`
+## 1. Informasi Penyusun:
+- **Nama:** Komang Dina Kartika
+- **NIM:** 2515091050
+- **Program Studi:** Sistem Informasi
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
