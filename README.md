@@ -72,7 +72,7 @@ Untuk mereproduksi hasil analisis ini, ikuti langkah-langkah berikut:
 ### 5.4. Analisis Regresi
 - **Model Regresi:**
   - *Persamaan regresi: Y = b0 + b1*X*
-               Pendapatan = -0.99 + 0.33 x Nilai_Pelanggan 
+    Pendapatan = -0.99 + 0.33 x Nilai_Pelanggan 
   - *Interpretasi:* Koefisien intercept menunjukkan nilai pendapatan ketika nilai pelanggan bernilai nol, sedangkan koefisien slope menunjukkan bahwa setiap kenaikan 1 juta rupiah nilai pelanggan akan meningkatkan pendapatan tahunan sekitar 0.33 miliar rupiah.
 - **Evaluasi Model (R-squared):**
   - Adjusted R-squared: 0.994 (99.4%)
